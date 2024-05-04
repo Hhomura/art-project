@@ -1,0 +1,32 @@
+[
+    {
+        "nome" : "Nome da Arte",
+        "descricao": "descricao da imagem",
+        "url": "https://group2-bucket-aws.s3.us-east-2.amazonaws.com/database/img/a1.png"
+    },
+    {
+        "nome" : "Nome da Arte",
+        "descricao": "descricao da imagem",
+        "url": "https://group2-bucket-aws.s3.us-east-2.amazonaws.com/database/img/a2.jpg"
+    },
+    {
+        "nome" : "Nome da Arte",
+        "descricao": "descricao da imagem",
+        "url": "https://group2-bucket-aws.s3.us-east-2.amazonaws.com/database/img/a3.jpg"
+    },
+    {
+        "nome" : "Nome da Arte",
+        "descricao": "descricao da imagem",
+        "url": "https://group2-bucket-aws.s3.us-east-2.amazonaws.com/database/img/a4.jpg"
+    },
+    {
+        "nome" : "Nome da Arte",
+        "descricao": "descricao da imagem",
+        "url": "https://group2-bucket-aws.s3.us-east-2.amazonaws.com/database/img/a5.jpg"
+    },
+    {
+        "nome" : "Nome da Arte",
+        "descricao": "descricao da imagem",
+        "url": "https://group2-bucket-aws.s3.us-east-2.amazonaws.com/database/img/a6.jpg"
+    }
+]

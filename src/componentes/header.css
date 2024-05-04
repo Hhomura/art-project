@@ -1,0 +1,38 @@
+header{
+    height: 700px;
+    border: 2px solid gray;
+    background-image: url('../assets/Carrosel.png');
+    background-repeat: no-repeat;
+    background-position: 1px;
+    background-position-y: -100px;
+    background-size: cover;
+    position: relative;
+
+}
+
+header img{
+    height: 60%;
+    width: 30%;
+}
+
+.header_img_back{
+    background-color: black;
+}
+
+.header_title{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.564);
+    color: white;
+    font-family: sans-serif;
+}
+
+.header_title span{
+    margin-top: 25px;
+    font-style: italic;
+    font-size: 2.1em;
+}
